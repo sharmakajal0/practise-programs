@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+## perimeter of various shapes
+
 from math import pi
 def square_perimeter():
     print("side of square")
