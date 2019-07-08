@@ -5,7 +5,7 @@ from sys import argv
 
 def probability(event, events):
 
-  '''Function Definition for finding probability of given event'''
+  '''Function Definition for finding probability in a list of events'''
   event_count = 0
 
   for i in events:
